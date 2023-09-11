@@ -6,9 +6,9 @@ import e from "../assets/e.jpg";
 const Activities = () => {
   return (
     <div className="max-w-[1140px] m-auto w-full md:flex mt-[-75px] ">
-      <ImgActivities name="dfdf" im={c} />
-      <ImgActivities name="dfdf" im={b} />
-      <ImgActivities name="Dfdff" im={e} />
+      <ImgActivities name="Bora Bora" im={c} />
+      <ImgActivities name="Palawan" im={b} />
+      <ImgActivities name="Crete" im={e} />
     </div>
   );
 };
